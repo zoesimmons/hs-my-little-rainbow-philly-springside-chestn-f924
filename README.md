@@ -5,7 +5,7 @@ languages: html, css
 #My Little Rainbow
 In this tutorial we're going to make a rainbow with HTML `<div>` elements. And while we do it we're going to learn about html elements, css styling, css selectors, how color works in css, and importing stylesheets.
 
-**1** First you'll need to open `index.html` in both Sublime Text and the browser. Notice it's completely empty in the browser. 
+**1** First you'll need to open `index.html` in both your text editor and the browser. Notice it's completely empty in the browser. 
  
 **2** Link `main.css` to `index.html` and refresh the browser. You should see a black rainbow.
 
