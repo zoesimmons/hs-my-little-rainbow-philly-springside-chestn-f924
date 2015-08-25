@@ -36,6 +36,8 @@ Make sure to save your changes before you refresh in the browser. The browser wo
 
 Remember to shut down your server before you move on to other labs and lessons. You won't be able to start a server in those other exercises if this one is still running!
 
+Once you're finished, you can push your code to GitHub (and mark this lab as complete in Learn) by entering in terminal in Nitrous `learn submit`.
+
 
 You can read more about hexademical colors [here](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Color).
 
