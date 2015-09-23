@@ -4,11 +4,11 @@
 
 In this tutorial we're going to make a rainbow with HTML `<div>` elements. A `div` tag operates similarly to `span` tag in that it acts as a box where we can group elements together and apply styling. And while we build a rainbow, we're going to learn about HTML elements, CSS styling, CSS selectors, how color works in CSS, and practice importing style sheets.
 
-**1** First you'll need to open `index.html` in both Nitrous and the browser. Click the `Open in Nitrous` button in Learn. Next, in terminal in Nitrous enter: `python -m SimpleHTTPServer 3000`. 
+**1** First you'll need to open `index.html` in both Nitrous and the browser. Click the `Open` button in Learn. Next, in terminal in Nitrous enter: `python -m SimpleHTTPServer 3000`. 
 
 Once you have the server running, select `preview` and then `port 3000`.
 
-<img src="https://s3.amazonaws.com/after-school-assets/nitrous-preview.png" alt="nitrous preview">
+<img src="https://s3.amazonaws.com/after-school-assets/new-open-in-nitrous.png" alt="nitrous preview">
 
 Notice it's completely empty in the browser. 
  
