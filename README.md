@@ -8,7 +8,7 @@ In this tutorial we're going to make a rainbow with HTML `<div>` elements. A `di
 
 Once you have the server running, select `preview` and then `port 3000`.
 
-<img src="https://s3.amazonaws.com/after-school-assets/new-open-in-nitrous.png" alt="nitrous preview">
+<img src="https://s3.amazonaws.com/after-school-assets/nitrous-preview.png" alt="nitrous preview">
 
 Notice it's completely empty in the browser. 
  
