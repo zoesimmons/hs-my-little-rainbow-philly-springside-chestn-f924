@@ -42,3 +42,5 @@ Once you're finished, you can push your code to GitHub (and mark this lab as com
 You can read more about hexademical colors [here](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Color).
 
 
+
+<a href='https://learn.co/lessons/hs-my-little-rainbow' data-visibility='hidden'>View this lesson on Learn.co</a>
