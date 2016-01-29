@@ -43,4 +43,4 @@ You can read more about hexademical colors [here](https://developer.mozilla.org/
 
 
 
-<a href='https://learn.co/lessons/hs-my-little-rainbow' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-my-little-rainbow' title='My Little Rainbow'>My Little Rainbow</a> on Learn.co and start learning to code for free.</p>
